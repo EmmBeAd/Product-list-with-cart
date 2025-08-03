@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.io/emmbead/product-list-with-cart/tree/main#)
-- Live Site URL: [Live Site](https://emmbead.github.io/product-list-with-cart/)
+- Live Site URL: [Live Site](https://emmbead.github.io/Product-list-with-cart/)
 
 ## My process
 
